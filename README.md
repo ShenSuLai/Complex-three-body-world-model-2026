@@ -165,4 +165,38 @@ $$ v^2 \geq 1 $$
 ### 协作与留言入口
 - 有想法可提交 **Issue** 或 **Pull Request**
 - 欢迎物理/数学/AI领域同好交流、完善和共创。
-- 本仓库为理论模型开源共享平台，致力于学术合作与知识积累，鼓励引用与扩展。
+- 本仓库为理论模型开源共享平台，致力于学术合作与知识积累，鼓励引用与扩展。                # 申氏五式：公式推导与理论说明
+
+本目录旨在以严谨的数学语言，详细阐述“申氏五式”的推导过程、物理意义及其在宏观与宇观世界中的适用性。
+
+## 核心公式索引（按理论逻辑排序）
+
+1. **[第一式：引申式 (Extended Formula)](./01_extended_formula.md)**
+
+$$ \Delta e = \Delta m (\Delta c)^2 $$
+
+   *超越相对论质能式，揭示光速可变机制。*
+
+2. **[第五式：复数世界统一式 (Complex Unification)](./05_complex_unification.md)**
+
+$$ v^2 \geq 1 $$
+
+   *超越牛顿万有引力，解释引力的超光速隐含问题。*
+
+3. **[第四式：不确定性拓展式 (Uncertainty Expansion)](./04_uncertainty_expansion.md)**
+
+$$ (\Delta e \Delta t) + (\Delta m \Delta s) \leq 1 $$
+
+   *超越“测不准原理”，从微观拓展到宇观。*
+
+4. **[第二式：相嵌式 (Interlocking Formula)](./02_interlocking_formula.md)**
+
+$$ v = \frac{e}{m} \times \frac{t}{s} $$
+
+   *“质能与时空”的新关系，实虚世界的复合连接。*
+
+5. **[第三式：整合式 (Integration Formula)](./03_integration_formula.md)**
+
+$$ (\Lambda + h)\left[ \left(\frac{e}{m}\right)^2+\left(\frac{t}{s}\right)^2 \right] \leq 2 $$
+
+   *连接相对论与量子力学，包含“整合分式”的完整体系。*
